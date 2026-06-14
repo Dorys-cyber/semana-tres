@@ -22,7 +22,7 @@ mascota2 = Mascota(
 mascota1.mostrar_informacion()
 mascota1.hacer_sonido()
 
-print()  # Este print vacío es genial para dejar un espacio en la terminal, tal como hizo el profe
+print()  
 
 mascota2.mostrar_informacion()
 mascota2.hacer_sonido()
